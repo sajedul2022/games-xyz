@@ -5197,4 +5197,12 @@ p {
 } */
 
 
+.heroContent {
+  padding: 20px;
+  height: 300px;
+}
 
+.heroContent h2{
+  margin-top: 40px;
+  padding: 20px;
+}
